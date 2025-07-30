@@ -1,5 +1,8 @@
 import React,{useEffect, useState} from 'react'
 import { Navigate, useNavigate, useParams } from 'react-router-dom';
+ import { ToastContainer, toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
+import { saveApplayJobs } from '../Utilit/localStorage';
 
 const Details = () => {
 
@@ -24,10 +27,19 @@ const Details = () => {
   
     },[id])
 
-    console.log(detailsData)
+    
+    const handleApplay=(id)=>{
+
+
+
+      saveApplayJobs(id);
+      toast(`Apply successfully ${id}`)
+
+    }
 
   return (
     <div className='container mx-auto my-10'>
+      <ToastContainer />
       <div className="card lg:card-side bg-base-100 shadow-sm border">
         <figure>
           <img
@@ -42,6 +54,7 @@ const Details = () => {
           <h2 className="card-title text-xl"> <span className='text-green-500 text-3xl'>salary: </span> {detailsData?.salary}</h2>
           <p>{detailsData?.description}</p>
           <div className="card-actions justify-end">
+            <button onClick={()=>handleApplay(detailsData?.id)} className="btn btn-primary">Applay</button>
             <button onClick={()=>navigate('/')} className="btn btn-primary">Go Back</button>
           </div>
         </div>
