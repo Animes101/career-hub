@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "company_name": "Google",
+    "job_title": "Frontend Developer",
+    "location": "Mountain View, CA",
+    "job_type": "Onsite",
+    "salary": "$120k - $150k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/270/270798.png",
+    "description": "Build and enhance UI of Google applications using React and TypeScript."
+  },
+  {
+    "id": 2,
+    "company_name": "Facebook",
+    "job_title": "Backend Engineer",
+    "location": "Menlo Park, CA",
+    "job_type": "Remote",
+    "salary": "$110k - $140k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/124/124010.png",
+    "description": "Design scalable services and work with distributed systems at Facebook."
+  },
+  {
+    "id": 3,
+    "company_name": "Netlify",
+    "job_title": "Full Stack Developer",
+    "location": "Remote",
+    "job_type": "Remote",
+    "salary": "$100k - $130k",
+    "logo": "https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png",
+    "description": "Develop full-stack features for serverless web deployment workflows."
+  },
+  {
+    "id": 4,
+    "company_name": "Apple",
+    "job_title": "UI/UX Designer",
+    "location": "Cupertino, CA",
+    "job_type": "Onsite",
+    "salary": "$115k - $145k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/0/747.png",
+    "description": "Create intuitive and elegant designs for iOS and macOS platforms."
+  },
+  {
+    "id": 5,
+    "company_name": "Microsoft",
+    "job_title": "Cloud Architect",
+    "location": "Redmond, WA",
+    "job_type": "Hybrid",
+    "salary": "$125k - $160k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/732/732221.png",
+    "description": "Design scalable cloud architecture using Microsoft Azure technologies."
+  },
+  {
+    "id": 6,
+    "company_name": "Amazon",
+    "job_title": "Data Analyst",
+    "location": "Seattle, WA",
+    "job_type": "Onsite",
+    "salary": "$90k - $115k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968906.png",
+    "description": "Analyze consumer behavior and operational data to drive decisions."
+  },
+  {
+    "id": 7,
+    "company_name": "Spotify",
+    "job_title": "Mobile App Developer",
+    "location": "Stockholm, Sweden",
+    "job_type": "Hybrid",
+    "salary": "$100k - $135k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968958.png",
+    "description": "Work on cross-platform music streaming apps using React Native."
+  },
+  {
+    "id": 8,
+    "company_name": "Adobe",
+    "job_title": "Product Manager",
+    "location": "San Jose, CA",
+    "job_type": "Onsite",
+    "salary": "$130k - $170k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968841.png",
+    "description": "Lead product development strategy for Adobe Creative Cloud."
+  },
+  {
+    "id": 9,
+    "company_name": "Tesla",
+    "job_title": "Embedded Systems Engineer",
+    "location": "Austin, TX",
+    "job_type": "Onsite",
+    "salary": "$125k - $155k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968903.png",
+    "description": "Develop embedded software for Tesla vehicles and charging systems."
+  },
+  {
+    "id": 10,
+    "company_name": "Netflix",
+    "job_title": "DevOps Engineer",
+    "location": "Los Gatos, CA",
+    "job_type": "Remote",
+    "salary": "$115k - $150k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/732/732228.png",
+    "description": "Maintain CI/CD pipelines and production reliability at scale."
+  },
+  {
+    "id": 11,
+    "company_name": "LinkedIn",
+    "job_title": "Security Analyst",
+    "location": "Sunnyvale, CA",
+    "job_type": "Hybrid",
+    "salary": "$105k - $135k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+    "description": "Monitor and protect LinkedIn’s network and user data from threats."
+  },
+  {
+    "id": 12,
+    "company_name": "Airbnb",
+    "job_title": "Frontend Engineer",
+    "location": "San Francisco, CA",
+    "job_type": "Remote",
+    "salary": "$115k - $145k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2111/2111320.png",
+    "description": "Build engaging and performant UIs for the Airbnb platform."
+  },
+  {
+    "id": 13,
+    "company_name": "Intel",
+    "job_title": "Hardware Engineer",
+    "location": "Santa Clara, CA",
+    "job_type": "Onsite",
+    "salary": "$110k - $150k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968885.png",
+    "description": "Design next-gen microchips and test embedded hardware systems."
+  },
+  {
+    "id": 14,
+    "company_name": "Slack",
+    "job_title": "QA Automation Engineer",
+    "location": "Remote",
+    "job_type": "Remote",
+    "salary": "$90k - $120k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2111/2111615.png",
+    "description": "Write automated tests and ensure quality of Slack's core features."
+  },
+  {
+    "id": 15,
+    "company_name": "Zoom",
+    "job_title": "Machine Learning Engineer",
+    "location": "Remote",
+    "job_type": "Remote",
+    "salary": "$130k - $165k",
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+    "description": "Build ML features like noise suppression and real-time video enhancement."
+  }
+]

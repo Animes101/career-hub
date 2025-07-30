@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "category_name": "Software Development",
+    "jobs_available": 124,
+    "icon": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png"
+  },
+  {
+    "id": 2,
+    "category_name": "Digital Marketing",
+    "jobs_available": 85,
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 3,
+    "category_name": "UI/UX Design",
+    "jobs_available": 42,
+    "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828884.png"
+  },
+  {
+    "id": 4,
+    "category_name": "Data Analysis",
+    "jobs_available": 67,
+    "icon": "https://cdn-icons-png.flaticon.com/512/1183/1183672.png"
+  },
+  {
+    "id": 5,
+    "category_name": "Customer Support",
+    "jobs_available": 103,
+    "icon": "https://cdn-icons-png.flaticon.com/512/219/219986.png"
+  }
+]

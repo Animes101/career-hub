@@ -31,11 +31,15 @@ const NavBar = () => {
                 <li><NavLink to={'/'} className={({ isActive }) =>
             isActive
               ? "text-blue-600 font-bold underline"
-              : "text-green-600 hover:text-blue-500"}>Home</NavLink></li>
-                <li><NavLink to={'/about'} className={({ isActive }) =>
+              : "text-green-600 hover:text-blue-500"}>Statistics</NavLink></li>
+                <li><NavLink to={'/appliedjobs'} className={({ isActive }) =>
             isActive
               ? "text-blue-600 font-bold underline"
-              : "text-green-600 hover:text-blue-500"}>About</NavLink></li>
+              : "text-green-600 hover:text-blue-500"}>Applied Jobs</NavLink></li>
+              <li><NavLink to={'/blog'} className={({ isActive }) =>
+            isActive
+              ? "text-blue-600 font-bold underline"
+              : "text-green-600 hover:text-blue-500"}>Blog</NavLink></li>
                 </ul>
             </div>
             <div className="navbar-end">
